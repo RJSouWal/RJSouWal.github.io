@@ -1,6 +1,7 @@
 /*Declaring variables*/
 :root{
-	--tint: rgba(0,214,170,0.85);
+	/*--tint: #f4c532;*/
+	--tint: #10d1e5;
 	--bgColor: #222;
 	--white: #FFF;	
 }
@@ -15,6 +16,7 @@ body{
 }
 /*Making the top Navigation Menu*/
 header{
+	z-index: 1;
 	float: left;
 	background: var(--tint);
 	text-align: center;
@@ -68,6 +70,7 @@ nav ul li a{
 	top: 6rem;
 	width: 85%;
 	margin: 0 6rem;
+	padding-right: 15px;
 	margin-bottom: 1rem;
 	color: var(--white);
 	transition: margin 400ms ease-in-out;
