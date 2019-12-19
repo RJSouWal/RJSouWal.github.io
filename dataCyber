@@ -1,0 +1,105 @@
+What is Cyber security?
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. 
+Computer security, cybersecurity or IT(Information technology) security is the protection of computer systems from the theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
+
+What is a Cyber Attack?
+A Cyber Attack is any type of offensive attempt that targets on stealing computer information systems, infrastructures, computer networks, or personal computer devices for some bad purposes. It happens because of vulnerability of a system. A vulnerability is a weakness in design, implementation, operation or internal control of the system or network.
+A cyberattack is deliberate exploitation of computer systems, technology-dependent enterprises and networks. Cyberattacks use malicious code to alter computer code, logic or data, resulting in disruptive consequences that can compromise data and lead to cybercrimes, such as information and identity theft.
+
+Types of cyber attacks-
+Backdoor attack- It is an attack in which there is a backdoor in a computer system which is a cryptosystem or an algorithm. It is any secret method of bypassing normal authentication or security controls. 
+Denial of service attack- It is an attack in which the resources are not available to the intended users of the machine or the network resource.
+Denial access attack- It is an attack in which an  unauthorized user gains physical access to a computer is most likely able to directly copy data from it. 
+Eavesdropping- It is an attack in which the hacker is able to surreptitiously listening to a private computer "conversation" (communication), typically between hosts on a network. 
+Multi vector attack- It is an attack in which many other types of attacks are combined together.
+Phishing- It is an attempt to acquire sensitive information such as usernames, passwords, and credit card details directly from users by deceiving the users.
+Privilege escalation- It is an attack in which an attacker with some level of restricted access is able to, without authorization, elevate their privileges or access level.
+Social engineering- It is an attack in which the attacker convince a user to disclose secrets such as passwords, card numbers, etc. by, for example, impersonating a bank, a contractor, or a customer. 
+Spoofing- It is an attack in which fake identity is used to access restricted information. 
+Tampering- It is an attack in which modification of products is done.
+
+Which systems are at most risk in today’s world?
+Financial systems
+Aviation systems 
+Consumer devices
+ Systems of Large corporations 
+Automobiles companies systems 
+Government systems
+Internet of things and physical vulnerabilities
+Medical systems
+Energy sector systems 
+
+Types of security and privacy
+Access control
+Anti key loggers 
+Anti-malware
+Anti-spyware
+Anti-subversion software
+Anti-tamper software
+Anti-theft
+Antivirus software
+Cryptographic software
+Computer-aided dispatch (CAD)
+Firewall
+Intrusion detection system (IDS)
+Intrusion prevention system (IPS)
+Log management software
+Parental control
+Records management
+Sandbox
+Security information management
+SIEM
+Software and operating system updating
+
+
+Information security culture is the totality of patterns of behaviour in an organization that contribute to the protection of information of all kin
+
+Importance of cyber security-
+Cyber security is important because government, military, corporate, financial, and medical organizations collect, process, and store unprecedented amounts of data on computers and other devices. A significant portion of that data can be sensitive information, whether that be intellectual property, financial data, personal information, or other types of data for which unauthorized access or exposure could have negative consequences. Organizations transmit sensitive data across networks and to other devices in the course of doing businesses, and cyber security describes the discipline dedicated to protecting that information and the systems used to process or store it. As the volume and sophistication of cyber attacks grow, companies and organizations, especially those that are tasked with safeguarding information relating to national security, health, or financial records, need to take steps to protect their sensitive business and personnel information.
+
+What technology to use for protecting the computer?
+Technology is essential to giving organizations and individuals the computer security tools needed to protect themselves from cyber attacks. Three main entities must be protected: endpoint devices like computers, smart devices, and routers; networks; and the cloud. Common technology used to protect these entities include next-generation firewalls, DNS filtering, malware protection, antivirus software, and email security solutions.
+
+How to save computer from cyber attacks? 
+In big companies-
+Train employees in cyber security principles.
+Install, use and regularly update antivirus and antispyware software on every computer used in your business.
+Use a firewall for your Internet connection.
+Download and install software updates for your operating systems and applications as they become available.
+Make backup copies of important business data and information.
+Control physical access to your computers and network components.
+Secure your Wi-Fi networks. If you have a Wi-Fi network for your workplace make sure it is secure and hidden.
+Require individual user accounts for each employee.
+Limit employee access to data and information and limit authority to install software.
+Regularly change passwords.
+
+In personal computers-
+Install Firewall
+Install Antivirus Software
+Install Anti-Spyware Software
+Use Complex and Secure Passwords
+Check on the Security Settings of the Browser
+
+What is firewall?
+A firewall enacts the role of a security guard. There are of two types of firewalls: a software firewall and hardware firewall. Each serves similar, but different purposes. A firewall is the first step to provide security to the computer. It creates a barrier between the computer and any unauthorized program trying to come in through the Internet. If you are using a system at home, turn on the firewall permanently. It makes you aware if there are any unauthorized efforts to use your system.
+
+
+What is antivirus software?
+Antivirus is one other means to protect the computer. It is software that helps to protect the computer from any unauthorized code or software that creates a threat to the system. Unauthorized software includes viruses, key loggers, Trojans etc. This might slow down the processing speed of your computer, delete important files and access personal information. Even if your system is virus free, you must install an antivirus software to prevent the system from further attack of virus.
+
+What is anti-spyware software?
+Spyware is a software program that collects personal information or information about an organization without their approval. This information is redirected to a third party website. Spyware are designed in such a way that they are not easy to be removed. Anti-Spyware software is solely dedicated to combat spyware. Similar to antivirus software, anti-spyware software offers real time protection. It scans all the incoming information and helps in blocking the threat once detected.
+
+What is cybercrime?
+Cybercrime or computer oriented crime is a criminal activities carried out by means of computers or the Internet. 
+
+Types of cybercrime-
+Financial fraud crimes
+Cyberterrorism
+Cyber extortion
+Cyber warfare
+Computer as a target
+Computer as a tool
+Obscene or offensive content
+Online harassment
+Drug trafficking
